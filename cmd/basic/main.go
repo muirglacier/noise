@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/perlin-network/noise"
-	"github.com/perlin-network/noise/kademlia"
+	"github.com/muirglacier/noise"
+	"github.com/muirglacier/noise/kademlia"
 	"go.uber.org/zap"
 	"os"
 	"os/signal"

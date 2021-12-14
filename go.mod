@@ -1,4 +1,4 @@
-module github.com/perlin-network/noise
+module github.com/muirglacier/noise
 
 go 1.13
 

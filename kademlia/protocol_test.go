@@ -2,8 +2,8 @@ package kademlia_test
 
 import (
 	"context"
-	"github.com/perlin-network/noise"
-	"github.com/perlin-network/noise/kademlia"
+	"github.com/muirglacier/noise"
+	"github.com/muirglacier/noise/kademlia"
 	"github.com/stretchr/testify/assert"
 	"go.uber.org/goleak"
 	"sync"

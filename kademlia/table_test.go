@@ -2,7 +2,7 @@ package kademlia
 
 import (
 	"encoding/binary"
-	"github.com/perlin-network/noise"
+	"github.com/muirglacier/noise"
 	"github.com/stretchr/testify/assert"
 	"math"
 	"math/rand"

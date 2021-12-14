@@ -2,7 +2,7 @@ package kademlia
 
 import (
 	"bytes"
-	"github.com/perlin-network/noise"
+	"github.com/muirglacier/noise"
 	"math/bits"
 	"sort"
 )

@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"context"
 	"fmt"
-	"github.com/perlin-network/noise"
+	"github.com/muirglacier/noise"
 	"runtime"
 	"sync"
 	"sync/atomic"

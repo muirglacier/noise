@@ -6,7 +6,7 @@ import (
 	"context"
 	"errors"
 	"fmt"
-	"github.com/perlin-network/noise"
+	"github.com/muirglacier/noise"
 	"go.uber.org/zap"
 	"time"
 )

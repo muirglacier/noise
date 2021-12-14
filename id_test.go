@@ -2,7 +2,7 @@ package noise_test
 
 import (
 	"fmt"
-	"github.com/perlin-network/noise"
+	"github.com/muirglacier/noise"
 	"github.com/stretchr/testify/assert"
 	"io"
 	"net"
